@@ -1,11 +1,11 @@
-const CACHE_NAME = "gmtv-meeting-quotation-v2";
+const CACHE_NAME = "gmtv-meeting-quotation-v3";
 const APP_SHELL = [
   "./",
   "./index.html",
   "./manifest.webmanifest",
   "./logo.svg",
-  "./gmtv-logo-192.png",
-  "./gmtv-logo-512.png"
+  "./gmtv-app-logo-v3-192.png",
+  "./gmtv-app-logo-v3-512.png"
 ];
 
 self.addEventListener("install", event => {
