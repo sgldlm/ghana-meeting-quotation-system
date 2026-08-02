@@ -2,6 +2,10 @@
 
 面向加纳会议、活动策划、舞台搭建、LED 屏幕、广告物料及活动礼品业务的自动报价工具。
 
+## 在线地址
+
+https://sgldlm.github.io/ghana-meeting-quotation-system/
+
 ## 手机安装
 
 1. 使用 Android 手机的 Google Chrome 打开 GitHub Pages 地址。
