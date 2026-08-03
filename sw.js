@@ -1,4 +1,4 @@
-const CACHE_NAME = "gmtv-meeting-quotation-v3";
+const CACHE_NAME = "gmtv-meeting-quotation-v4";
 const APP_SHELL = [
   "./",
   "./index.html",
