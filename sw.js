@@ -1,7 +1,9 @@
-const CACHE_NAME = "gmtv-meeting-quotation-v5";
+const CACHE_NAME = "gmtv-meeting-quotation-v10";
 const APP_SHELL = [
   "./",
   "./index.html",
+  "./web-history.css",
+  "./web-history.js",
   "./manifest.webmanifest",
   "./logo.svg",
   "./dark-dot-texture.png",
