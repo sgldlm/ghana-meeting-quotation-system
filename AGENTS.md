@@ -11,3 +11,5 @@ Build app UI in `src/`. Keep `.openai/hosting.json`, `worker/index.js`, `scripts
 ## Product Decisions
 
 - Currency display uses a space between the Ghana cedi mark and the amount; the GH₵ mark is rendered 3px smaller than its numeric value across quotation and history views.
+
+- XLSX calculations are formula-driven: editable quantity and unit-price cells feed each line amount; subtotal, percentage-formatted discount and tax inputs, and total recalculate automatically on open.
