@@ -13,3 +13,5 @@ Build app UI in `src/`. Keep `.openai/hosting.json`, `worker/index.js`, `scripts
 - Currency display uses a space between the Ghana cedi mark and the amount; the GH₵ mark is rendered 3px smaller than its numeric value across quotation and history views.
 
 - XLSX calculations are formula-driven: editable quantity and unit-price cells feed each line amount; subtotal, percentage-formatted discount and tax inputs, and total recalculate automatically on open.
+
+- Service-item selection is a true toggle across web and APK: tapping plus adds one quantity and changes the control to a checkmark; tapping the checkmark removes that item and its amount, returning the control to plus. Quantity changes remain in quotation detail controls.
